@@ -1578,6 +1578,9 @@ padding: 20px 0;
   padding: 20px 0;
   grid-template: none;
 }
+.describe__item {
+  font-size: 25px;
+}
 .describe__item-first {
   font-size: 25px;
 }
